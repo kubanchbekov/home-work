@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.foto {
+  background: url(./qwer.jpg);
+  background-size: cover;
+  height: 825px;
+  width: 1520px;
+  margin: 0 auto;
+  display: flex;
+}
+.box_1 {
+  background-color: black;
+  height: 500px;
+  width: 400px;
+  position: relative;
+  top: 120px;
+  border-radius: 10px;
+  padding: 40px 30px 40px 30px;
+  margin: 0 auto;
+}
+.tecst {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+  padding: 20px;
+}
+.label_texxt {
+  color: white;
+  font-weight: 600;
+  margin-left: 20px;
+  font-weight: bold;
+}
+.name {
+  width: 300px;
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 10px;
+  border: none;
+  background-color: rgb(33, 33, 33);
+  padding: 10px;
+  color: white;
+  border: 1px solid green;
+}
+
+.forgot {
+  font-size: 18px;
+  margin-left: 200px;
+}
+.chekbox {
+  position: relative;
+  top: 43px;
+  left: 22px;
+}
+.login {
+  height: 40px;
+  width: 100px;
+  background-color: #0090e7;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+.fakibyk {
+  display: flex;
+  gap: 20px;
+}
+.qwer {
+  background-color: #3b579d;
+  height: 30px;
+  width: 140px;
+  color: white;
+  margin: 0 auto;
+  border: none;
+  border-radius: 5px;
+}
+.goole {
+  background-color: rgb(185, 27, 71);
+}
+
+.faacebook {
+  width: 20px;
+  height: 20px;
+  border: none;
+}
+.text_12 {
+  display: flex;
+  text-align: center;
+}
